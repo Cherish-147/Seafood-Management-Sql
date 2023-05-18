@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3b85ec1-1a71-445b-aea8-43d6fff3cf9c" name="Changes" comment="2022Datagrip">
-      <changelist_data name="754868159@qq.com" email="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
     "database.data.extractors.current.export.id": "SQL 插入",
     "last_opened_file_path": "G:/数据库备份/SQL—insert",
     "service.view.auto.scroll.to.source": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.externalResources"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
