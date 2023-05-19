@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3b85ec1-1a71-445b-aea8-43d6fff3cf9c" name="Changes" comment="2022Datagrip">
+    <list default="true" id="c3b85ec1-1a71-445b-aea8-43d6fff3cf9c" name="Changes" comment="2023年5月18日14:49:41">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/db24c8a3-8710-48e3-b2cf-a74cf6389720.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/db24c8a3-8710-48e3-b2cf-a74cf6389720.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/db24c8a3-8710-48e3-b2cf-a74cf6389720/storage_v2/_src_/database/Hai_Chan_Pin_Guan_Li_Xi_Tong.ugaGuQ/schema/dbo.sYMBAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/db24c8a3-8710-48e3-b2cf-a74cf6389720/storage_v2/_src_/database/Hai_Chan_Pin_Guan_Li_Xi_Tong.ugaGuQ/schema/dbo.sYMBAA.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,27 +36,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "database.data.extractors.current.export.id": "SQL 插入",
-    "last_opened_file_path": "G:/数据库备份/SQL—insert",
-    "service.view.auto.scroll.to.source": "true",
-    "settings.editor.selected.configurable": "preferences.externalResources"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenDatabaseViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;SQL 插入&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/数据库备份/SQL—insert&quot;,
+    &quot;service.view.auto.scroll.to.source&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalResources&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "sqlserver.localdb",
-      "mysql",
-      "sqlserver"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlserver.localdb&quot;,
+      &quot;mysql&quot;,
+      &quot;sqlserver&quot;
     ],
-    "com.intellij.ide.scratch.LRUPopupBuilder$1/": [
-      "TSQL"
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/&quot;: [
+      &quot;TSQL&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SQLScriptSettings">
     <option name="matrix">
       <map>
@@ -68,7 +70,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -76,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2022Datagrip" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022Datagrip" />
+    <MESSAGE value="2023年5月18日14:49:41" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023年5月18日14:49:41" />
   </component>
 </project>
